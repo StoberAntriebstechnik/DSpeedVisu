@@ -9,6 +9,7 @@ _ropeproject/
 .directory/
 .directory
 temp/
+inout/Test*.*
 Ui_*.py
 *_rc.py
 *.pyc
